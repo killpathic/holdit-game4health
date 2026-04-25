@@ -1,9 +1,9 @@
-import os
 from contextlib import asynccontextmanager
 from datetime import datetime
 from typing import Literal
 
 from fastapi import FastAPI, HTTPException, Depends
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from sqlalchemy import (
@@ -15,8 +15,9 @@ from sqlalchemy.orm import DeclarativeBase, Session, sessionmaker
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
-    database_url: str = "postgresql://holdit:holdit@db:5432/holdit"
-    secret_key: str = "change-me"
+    database_url: str
+    secret_key: str
+    cors_origins: str = ""
 
 
 settings = Settings()
@@ -57,6 +58,16 @@ app = FastAPI(
     version="0.1.0",
     lifespan=lifespan,
 )
+
+_cors_origins = [o.strip() for o in settings.cors_origins.split(",") if o.strip()]
+if _cors_origins:
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=_cors_origins,
+        allow_credentials=False,
+        allow_methods=["GET", "POST"],
+        allow_headers=["*"],
+    )
 
 
 def get_db():
