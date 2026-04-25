@@ -2,7 +2,7 @@
 
 # 🎮 HOLD IT — GAME4HEALTH
 
-**EMG-based serious game for upper limb motor rehabilitation**
+**EMG-based serious game for upper limb motor rehabilitation with AI**
 
 ![Demo](assets/demo.gif)
 
