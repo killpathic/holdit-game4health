@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 7390c8cbe31298147b8502634fb1d98c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8867527752989009927
+    second: ismagiPngLogo_0
+  - first:
+      213: -7452570441363628280
+    second: ismagiPngLogo_1
+  - first:
+      213: 8168301884730199482
+    second: ismagiPngLogo_2
+  - first:
+      213: 4279286866466494703
+    second: ismagiPngLogo_3
+  - first:
+      213: 9198002716335397056
+    second: ismagiPngLogo_4
+  - first:
+      213: 6890483607604992219
+    second: ismagiPngLogo_5
+  - first:
+      213: 5325980430940530183
+    second: ismagiPngLogo_6
+  - first:
+      213: -5648957358137553312
+    second: ismagiPngLogo_7
+  - first:
+      213: 2600057070096719262
+    second: ismagiPngLogo_8
+  - first:
+      213: -5682880884920272289
+    second: ismagiPngLogo_9
+  - first:
+      213: 7129795179437736279
+    second: ismagiPngLogo_10
+  - first:
+      213: -2652939625466125563
+    second: ismagiPngLogo_11
+  - first:
+      213: 9208390001852814062
+    second: ismagiPngLogo_12
+  - first:
+      213: 5886336244150948776
+    second: ismagiPngLogo_13
+  - first:
+      213: -469757362368064492
+    second: ismagiPngLogo_14
+  - first:
+      213: 5571713399922560680
+    second: ismagiPngLogo_15
+  - first:
+      213: 1183456899044585846
+    second: ismagiPngLogo_16
+  - first:
+      213: 5670938804452892695
+    second: ismagiPngLogo_17
+  - first:
+      213: -1947104343223454352
+    second: ismagiPngLogo_18
+  - first:
+      213: -2309122636282209771
+    second: ismagiPngLogo_19
+  - first:
+      213: 8921660041368182504
+    second: ismagiPngLogo_20
+  - first:
+      213: -4573409676666927967
+    second: ismagiPngLogo_21
+  - first:
+      213: 8042934174253557984
+    second: ismagiPngLogo_22
+  - first:
+      213: 6612755335334410388
+    second: ismagiPngLogo_23
+  - first:
+      213: 8010932429206549459
+    second: ismagiPngLogo_24
+  - first:
+      213: 7246981654322831167
+    second: ismagiPngLogo_25
+  - first:
+      213: 6898446335910312709
+    second: ismagiPngLogo_26
+  - first:
+      213: -2493452509724865307
+    second: ismagiPngLogo_27
+  - first:
+      213: 7267231250247951623
+    second: ismagiPngLogo_28
+  - first:
+      213: 8196837293633964212
+    second: ismagiPngLogo_29
+  - first:
+      213: -792635429946572951
+    second: ismagiPngLogo_30
+  - first:
+      213: -1114112270050671858
+    second: ismagiPngLogo_31
+  - first:
+      213: -1338784587019558554
+    second: ismagiPngLogo_32
+  - first:
+      213: 1785528535454981607
+    second: ismagiPngLogo_33
+  - first:
+      213: 5911977921641587234
+    second: ismagiPngLogo_34
+  - first:
+      213: -10559167126342532
+    second: ismagiPngLogo_35
+  - first:
+      213: -35432820643956099
+    second: ismagiPngLogo_36
+  - first:
+      213: 7087323731865771792
+    second: ismagiPngLogo_37
+  - first:
+      213: -111561215472230109
+    second: ismagiPngLogo_38
+  - first:
+      213: -2881582436794235571
+    second: ismagiPngLogo_39
+  - first:
+      213: 900173981196446569
+    second: ismagiPngLogo_40
+  - first:
+      213: 9153923103584466250
+    second: ismagiPngLogo_41
+  - first:
+      213: -202633170394010159
+    second: ismagiPngLogo_42
+  - first:
+      213: 6965366967710042532
+    second: ismagiPngLogo_43
+  - first:
+      213: 8381766451252086159
+    second: ismagiPngLogo_44
+  - first:
+      213: -3205817872626050224
+    second: ismagiPngLogo_45
+  - first:
+      213: -889451793141233821
+    second: ismagiPngLogo_46
+  - first:
+      213: -712372810073784692
+    second: ismagiPngLogo_47
+  - first:
+      213: -3159470000242044724
+    second: ismagiPngLogo_48
+  - first:
+      213: -593771648023536252
+    second: ismagiPngLogo_49
+  - first:
+      213: 7647602733193382739
+    second: ismagiPngLogo_50
+  - first:
+      213: 7316222251538652532
+    second: ismagiPngLogo_51
+  - first:
+      213: 8663982610313206172
+    second: ismagiPngLogo_52
+  - first:
+      213: -127838278495511875
+    second: ismagiPngLogo_53
+  - first:
+      213: -8692325738805939382
+    second: ismagiPngLogo_54
+  - first:
+      213: -4640349215229308420
+    second: ismagiPngLogo_55
+  - first:
+      213: -5661427428830658916
+    second: ismagiPngLogo_56
+  - first:
+      213: 5051129175707896768
+    second: ismagiPngLogo_57
+  - first:
+      213: 4521831783813122112
+    second: ismagiPngLogo_58
+  - first:
+      213: -2395959997573452900
+    second: ismagiPngLogo_59
+  - first:
+      213: -8891089879004263633
+    second: ismagiPngLogo_60
+  - first:
+      213: 2486726736091758606
+    second: ismagiPngLogo_61
+  - first:
+      213: -5351262307408300794
+    second: ismagiPngLogo_62
+  - first:
+      213: 4114650880418211614
+    second: ismagiPngLogo_63
+  - first:
+      213: -6364670760717223974
+    second: ismagiPngLogo_64
+  - first:
+      213: 5612659081741737600
+    second: ismagiPngLogo_65
+  - first:
+      213: -1942542211725145066
+    second: ismagiPngLogo_66
+  - first:
+      213: 2939148899679950802
+    second: ismagiPngLogo_67
+  - first:
+      213: 7442417146367387914
+    second: ismagiPngLogo_68
+  - first:
+      213: -7232322159084669350
+    second: ismagiPngLogo_69
+  - first:
+      213: 1787207251626839933
+    second: ismagiPngLogo_70
+  - first:
+      213: -3777518480589453866
+    second: ismagiPngLogo_71
+  - first:
+      213: -3668269292227432016
+    second: ismagiPngLogo_72
+  - first:
+      213: -5199707748644081005
+    second: ismagiPngLogo_73
+  - first:
+      213: -6834706869984113508
+    second: ismagiPngLogo_74
+  - first:
+      213: -7024680166974509218
+    second: ismagiPngLogo_75
+  - first:
+      213: 6233381669340175612
+    second: ismagiPngLogo_76
+  - first:
+      213: 5018833226509249838
+    second: ismagiPngLogo_77
+  - first:
+      213: -140147190687279413
+    second: ismagiPngLogo_78
+  - first:
+      213: -2430296466494845331
+    second: ismagiPngLogo_79
+  - first:
+      213: -8614381732034100766
+    second: ismagiPngLogo_80
+  - first:
+      213: -1949241730899897639
+    second: ismagiPngLogo_81
+  - first:
+      213: 5476115959577080336
+    second: ismagiPngLogo_82
+  - first:
+      213: -963941721789379936
+    second: ismagiPngLogo_83
+  - first:
+      213: -2554404081025491561
+    second: ismagiPngLogo_84
+  - first:
+      213: -2670651517997595533
+    second: ismagiPngLogo_85
+  - first:
+      213: -3589526136111565038
+    second: ismagiPngLogo_86
+  - first:
+      213: 4296283930496213347
+    second: ismagiPngLogo_87
+  - first:
+      213: 4308506549624632283
+    second: ismagiPngLogo_88
+  - first:
+      213: -7035103016597429174
+    second: ismagiPngLogo_89
+  - first:
+      213: 945362656442412750
+    second: ismagiPngLogo_90
+  - first:
+      213: 5083868761752456132
+    second: ismagiPngLogo_91
+  - first:
+      213: 2874170305329627356
+    second: ismagiPngLogo_92
+  - first:
+      213: 9205676999785881561
+    second: ismagiPngLogo_93
+  - first:
+      213: -9007329993547356986
+    second: ismagiPngLogo_94
+  - first:
+      213: 4351175599804913365
+    second: ismagiPngLogo_95
+  - first:
+      213: -7990768921013944962
+    second: ismagiPngLogo_96
+  - first:
+      213: -6353917484953075936
+    second: ismagiPngLogo_97
+  - first:
+      213: -2676891231623360267
+    second: ismagiPngLogo_98
+  - first:
+      213: 6103266474323784751
+    second: ismagiPngLogo_99
+  - first:
+      213: 7512731111952739199
+    second: ismagiPngLogo_100
+  - first:
+      213: -678760527978934698
+    second: ismagiPngLogo_101
+  - first:
+      213: -6740982390893246816
+    second: ismagiPngLogo_102
+  - first:
+      213: -3561004455283679308
+    second: ismagiPngLogo_103
+  - first:
+      213: -2574166682160151639
+    second: ismagiPngLogo_104
+  - first:
+      213: -3405402047762349106
+    second: ismagiPngLogo_105
+  - first:
+      213: 2686930575654460347
+    second: ismagiPngLogo_106
+  - first:
+      213: -7272595606286379748
+    second: ismagiPngLogo_107
+  - first:
+      213: -9053563918897485623
+    second: ismagiPngLogo_108
+  - first:
+      213: 5972890522255074666
+    second: ismagiPngLogo_109
+  - first:
+      213: -6315737854986070731
+    second: ismagiPngLogo_110
+  - first:
+      213: 4629607918563214003
+    second: ismagiPngLogo_111
+  - first:
+      213: -9122985014288779676
+    second: ismagiPngLogo_112
+  - first:
+      213: 1119737355156909693
+    second: ismagiPngLogo_113
+  - first:
+      213: -7712816544572064166
+    second: ismagiPngLogo_114
+  - first:
+      213: 7587418472142963396
+    second: ismagiPngLogo_115
+  - first:
+      213: -8086139265144949475
+    second: ismagiPngLogo_116
+  - first:
+      213: 2874158486545134218
+    second: ismagiPngLogo_117
+  - first:
+      213: 6732773572586663007
+    second: ismagiPngLogo_118
+  - first:
+      213: -8387018978136894711
+    second: ismagiPngLogo_119
+  - first:
+      213: 8528333872957178967
+    second: ismagiPngLogo_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ismagiPngLogo_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 957
+        width: 787
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708e3d85289cf0b70800000000000000
+      internalID: 8867527752989009927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 574
+        width: 890
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd1f24ba6239890800000000000000
+      internalID: -7452570441363628280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 233
+        width: 830
+        height: 1426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd4f716943ab5170800000000000000
+      internalID: 8168301884730199482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 39
+        width: 633
+        height: 1596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8dabf7bb4136b30800000000000000
+      internalID: 4279286866466494703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 116
+        width: 294
+        height: 1467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8df36ccbed5af70800000000000000
+      internalID: 9198002716335397056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_5
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 413
+        width: 388
+        height: 1111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd892f1755aef9f50800000000000000
+      internalID: 6890483607604992219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_6
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 746
+        width: 322
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70664e2dbfea9e940800000000000000
+      internalID: 5325980430940530183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_7
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 160
+        width: 17
+        height: 1375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec1e4563fda91b0800000000000000
+      internalID: -5648957358137553312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_8
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1423
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d9bda2122451420800000000000000
+      internalID: 2600057070096719262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_9
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1042
+        width: 501
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3871c1f95221b0800000000000000
+      internalID: -5682880884920272289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_10
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 1056
+        width: 586
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751cdafb0fe12f260800000000000000
+      internalID: 7129795179437736279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_11
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1056
+        width: 572
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a88d677dde2bd0800000000000000
+      internalID: -2652939625466125563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_12
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 1042
+        width: 523
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee212b52be5cacf70800000000000000
+      internalID: 9208390001852814062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_13
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1423
+        width: 140
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3df1d70a770b150800000000000000
+      internalID: 5886336244150948776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_14
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1056
+        width: 122
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145d65fa261b79f0800000000000000
+      internalID: -469757362368064492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_15
+      rect:
+        serializedVersion: 2
+        x: 4978
+        y: 1056
+        width: 122
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0ba821d3b25d40800000000000000
+      internalID: 5571713399922560680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_16
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 1055
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671b98a87cb7c6010800000000000000
+      internalID: 1183456899044585846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_17
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 713
+        width: 31
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a466fbc833be40800000000000000
+      internalID: 5670938804452892695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_18
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 710
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075bb818aee7af4e0800000000000000
+      internalID: -1947104343223454352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_19
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 838
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad591523954ffd0800000000000000
+      internalID: -2309122636282209771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_20
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 710
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1c84e98a10db70800000000000000
+      internalID: 8921660041368182504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_21
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 710
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a40fe9412cf780c0800000000000000
+      internalID: -4573409676666927967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_22
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 710
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ab38a40e3e9f60800000000000000
+      internalID: 8042934174253557984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_23
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 837
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983d2d01f935cb50800000000000000
+      internalID: 6612755335334410388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_24
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 838
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37382c99c8c2f60800000000000000
+      internalID: 8010932429206549459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_25
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 710
+        width: 112
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5faf1b63729460800000000000000
+      internalID: 7246981654322831167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_26
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 713
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b770a94643cbf50800000000000000
+      internalID: 6898446335910312709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_27
+      rect:
+        serializedVersion: 2
+        x: 5725
+        y: 710
+        width: 73
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec0b8d372a756dd0800000000000000
+      internalID: -2493452509724865307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_28
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 713
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a5a391546ad460800000000000000
+      internalID: 7267231250247951623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_29
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 710
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80ab0071401c170800000000000000
+      internalID: 8196837293633964212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_30
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 713
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f35a9a64efff4f0800000000000000
+      internalID: -792635429946572951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_31
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 710
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c9bf0bc0e980f0800000000000000
+      internalID: -1114112270050671858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_32
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 710
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616ee3e28eab6de0800000000000000
+      internalID: -1338784587019558554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_33
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 668
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed1e1c2eb877c810800000000000000
+      internalID: 1785528535454981607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_34
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 710
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2222663c8909b0250800000000000000
+      internalID: 5911977921641587234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_35
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 713
+        width: 66
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747f425e7c7adff0800000000000000
+      internalID: -10559167126342532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_36
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 713
+        width: 31
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7020990e128ff0800000000000000
+      internalID: -35432820643956099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_37
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 710
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f1e06426b3b5260800000000000000
+      internalID: 7087323731865771792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_38
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 710
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32121156aa7a37ef0800000000000000
+      internalID: -111561215472230109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_39
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 713
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4500ef7a009208d0800000000000000
+      internalID: -2881582436794235571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_40
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 710
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6341777f0e7c00800000000000000
+      internalID: 900173981196446569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_41
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 710
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45b46a2094490f70800000000000000
+      internalID: 9153923103584466250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_42
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 713
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd24f2843a103df0800000000000000
+      internalID: -202633170394010159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_43
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 710
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c8906a54f9a060800000000000000
+      internalID: 6965366967710042532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_44
+      rect:
+        serializedVersion: 2
+        x: 5048
+        y: 665
+        width: 110
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85ca2dcd24025470800000000000000
+      internalID: 8381766451252086159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_45
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 710
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b968741a5a283d0800000000000000
+      internalID: -3205817872626050224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_46
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 713
+        width: 166
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678bf08e4808a3f0800000000000000
+      internalID: -889451793141233821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_47
+      rect:
+        serializedVersion: 2
+        x: 5485
+        y: 710
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb7eb14b42d16f0800000000000000
+      internalID: -712372810073784692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_48
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 713
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d11d36ce4724d0800000000000000
+      internalID: -3159470000242044724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_49
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 455
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ddbd105df72c7f0800000000000000
+      internalID: -593771648023536252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_50
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 534
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4c47ca2eb12a60800000000000000
+      internalID: 7647602733193382739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_51
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 457
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d15c0ff51788560800000000000000
+      internalID: 7316222251538652532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_52
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 455
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9951e3c746ac3870800000000000000
+      internalID: 8663982610313206172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_53
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 559
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbad39553c3d93ef0800000000000000
+      internalID: -127838278495511875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_54
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 559
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43bc726bc7ae5780800000000000000
+      internalID: -8692325738805939382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_55
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 455
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf19e7079fa2a9fb0800000000000000
+      internalID: -4640349215229308420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_56
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 455
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e35eebfb19e61b0800000000000000
+      internalID: -5661427428830658916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_57
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 559
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb4ea82937391640800000000000000
+      internalID: 5051129175707896768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_58
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 455
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488048bc06c0ce30800000000000000
+      internalID: 4521831783813122112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_59
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 455
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba6989317dfbed0800000000000000
+      internalID: -2395959997573452900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_60
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 455
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b41efacd08c9480800000000000000
+      internalID: -8891089879004263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_61
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 558
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00473e8ac0a28220800000000000000
+      internalID: 2486726736091758606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_62
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 559
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605bdfa984f7cb5b0800000000000000
+      internalID: -5351262307408300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_63
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 457
+        width: 26
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e176316ec2d2a1930800000000000000
+      internalID: 4114650880418211614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_64
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 457
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad772232aa52ca7a0800000000000000
+      internalID: -6364670760717223974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_65
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 455
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e169c92bb24ed40800000000000000
+      internalID: 5612659081741737600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_66
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 559
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccbe48624ba05e0800000000000000
+      internalID: -1942542211725145066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_67
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 457
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7576b1a54f9c820800000000000000
+      internalID: 2939148899679950802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_68
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 457
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09218786f6c84760800000000000000
+      internalID: 7442417146367387914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_69
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 457
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5672969051a1ab90800000000000000
+      internalID: -7232322159084669350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_70
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 457
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f483db68f6dc810800000000000000
+      internalID: 1787207251626839933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_71
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 455
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50effb4fe839bc0800000000000000
+      internalID: -3777518480589453866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_72
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 457
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17f489380b71dc0800000000000000
+      internalID: -3668269292227432016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_73
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 455
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39239321a5de6d7b0800000000000000
+      internalID: -5199707748644081005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_74
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 457
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ccca6405e3621a0800000000000000
+      internalID: -6834706869984113508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_75
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 455
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fa0c24b92538e90800000000000000
+      internalID: -7024680166974509218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_76
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 457
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd3763a9b618650800000000000000
+      internalID: 6233381669340175612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_77
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 455
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de2058a3a76a540800000000000000
+      internalID: 5018833226509249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_78
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 455
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d0d26fd81e0ef0800000000000000
+      internalID: -140147190687279413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_79
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 455
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e00bf6d3ad54ed0800000000000000
+      internalID: -2430296466494845331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_80
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 457
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e14e76a471937880800000000000000
+      internalID: -8614381732034100766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_81
+      rect:
+        serializedVersion: 2
+        x: 4586
+        y: 457
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2185829f6e2f4e0800000000000000
+      internalID: -1949241730899897639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_82
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 455
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012707793721ffb40800000000000000
+      internalID: 5476115959577080336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_83
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 457
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac0987c146f92f0800000000000000
+      internalID: -963941721789379936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_84
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 455
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ddaa9a50fec8cd0800000000000000
+      internalID: -2554404081025491561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_85
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 457
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37445e61890ffead0800000000000000
+      internalID: -2670651517997595533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_86
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 457
+        width: 136
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f6115ff07f2ec0800000000000000
+      internalID: -3589526136111565038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_87
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 455
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361227bd8777f9b30800000000000000
+      internalID: 4296283930496213347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_88
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 457
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f1d221e3eacb30800000000000000
+      internalID: 4308506549624632283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_89
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 420
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446e69741b4e5e90800000000000000
+      internalID: -7035103016597429174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_90
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 455
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece6b29c35a9e1d00800000000000000
+      internalID: 945362656442412750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_91
+      rect:
+        serializedVersion: 2
+        x: 5715
+        y: 455
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc5fc04b78d8640800000000000000
+      internalID: 5083868761752456132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_92
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 313
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd006292aaa13e720800000000000000
+      internalID: 2874170305329627356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_93
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 290
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df9831257221cf70800000000000000
+      internalID: 9205676999785881561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_94
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 208
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c463eff7198ff280800000000000000
+      internalID: -9007329993547356986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_95
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 156
+        width: 377
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d618bd872b726c30800000000000000
+      internalID: 4351175599804913365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_96
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 210
+        width: 21
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d7bb4d0061b1190800000000000000
+      internalID: -7990768921013944962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_97
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 313
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7a3146b952d7a0800000000000000
+      internalID: -6353917484953075936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_98
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 168
+        width: 268
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05bbc8b95c9dad0800000000000000
+      internalID: -2676891231623360267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_99
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 210
+        width: 21
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24be9b958823b450800000000000000
+      internalID: 6103266474323784751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_100
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 299
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be7f46425924860800000000000000
+      internalID: 7512731111952739199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_101
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 210
+        width: 21
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e424265ee8496f0800000000000000
+      internalID: -678760527978934698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_102
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 208
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a605a11b383372a0800000000000000
+      internalID: -6740982390893246816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_103
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 210
+        width: 20
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9b3f9055c49ec0800000000000000
+      internalID: -3561004455283679308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_104
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 208
+        width: 223
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c2358a09b64cd0800000000000000
+      internalID: -2574166682160151639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_105
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 159
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ccb151e49db0d0800000000000000
+      internalID: -3405402047762349106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_106
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 210
+        width: 162
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb15026f15e94520800000000000000
+      internalID: 2686930575654460347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_107
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 210
+        width: 20
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15db34f3dc821b90800000000000000
+      internalID: -7272595606286379748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_108
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 168
+        width: 419
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c862d665974b5280800000000000000
+      internalID: -9053563918897485623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_109
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 210
+        width: 20
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65af45c848f3e250800000000000000
+      internalID: 5972890522255074666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_110
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 210
+        width: 171
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535511312edf958a0800000000000000
+      internalID: -6315737854986070731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_111
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 208
+        width: 211
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2cb4b8fdbaf3040800000000000000
+      internalID: 4629607918563214003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_112
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 156
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fa141775a46180800000000000000
+      internalID: -9122985014288779676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_113
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 208
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eecdf113b1a8f00800000000000000
+      internalID: 1119737355156909693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_114
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 158
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb60b873296f490800000000000000
+      internalID: -7712816544572064166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_115
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 208
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2815a86eceb4960800000000000000
+      internalID: 7587418472142963396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_116
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 156
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1572b83e2348cf80800000000000000
+      internalID: -8086139265144949475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_117
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 158
+        width: 165
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8272b26aef03e720800000000000000
+      internalID: 2874158486545134218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_118
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 172
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c6a2b74ed9f6d50800000000000000
+      internalID: 6732773572586663007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_119
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 159
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d0bbfca25b9b80800000000000000
+      internalID: -8387018978136894711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ismagiPngLogo_120
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 121
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544b8fe87aba5670800000000000000
+      internalID: 8528333872957178967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ismagiPngLogo_0: 8867527752989009927
+      ismagiPngLogo_1: -7452570441363628280
+      ismagiPngLogo_10: 7129795179437736279
+      ismagiPngLogo_100: 7512731111952739199
+      ismagiPngLogo_101: -678760527978934698
+      ismagiPngLogo_102: -6740982390893246816
+      ismagiPngLogo_103: -3561004455283679308
+      ismagiPngLogo_104: -2574166682160151639
+      ismagiPngLogo_105: -3405402047762349106
+      ismagiPngLogo_106: 2686930575654460347
+      ismagiPngLogo_107: -7272595606286379748
+      ismagiPngLogo_108: -9053563918897485623
+      ismagiPngLogo_109: 5972890522255074666
+      ismagiPngLogo_11: -2652939625466125563
+      ismagiPngLogo_110: -6315737854986070731
+      ismagiPngLogo_111: 4629607918563214003
+      ismagiPngLogo_112: -9122985014288779676
+      ismagiPngLogo_113: 1119737355156909693
+      ismagiPngLogo_114: -7712816544572064166
+      ismagiPngLogo_115: 7587418472142963396
+      ismagiPngLogo_116: -8086139265144949475
+      ismagiPngLogo_117: 2874158486545134218
+      ismagiPngLogo_118: 6732773572586663007
+      ismagiPngLogo_119: -8387018978136894711
+      ismagiPngLogo_12: 9208390001852814062
+      ismagiPngLogo_120: 8528333872957178967
+      ismagiPngLogo_13: 5886336244150948776
+      ismagiPngLogo_14: -469757362368064492
+      ismagiPngLogo_15: 5571713399922560680
+      ismagiPngLogo_16: 1183456899044585846
+      ismagiPngLogo_17: 5670938804452892695
+      ismagiPngLogo_18: -1947104343223454352
+      ismagiPngLogo_19: -2309122636282209771
+      ismagiPngLogo_2: 8168301884730199482
+      ismagiPngLogo_20: 8921660041368182504
+      ismagiPngLogo_21: -4573409676666927967
+      ismagiPngLogo_22: 8042934174253557984
+      ismagiPngLogo_23: 6612755335334410388
+      ismagiPngLogo_24: 8010932429206549459
+      ismagiPngLogo_25: 7246981654322831167
+      ismagiPngLogo_26: 6898446335910312709
+      ismagiPngLogo_27: -2493452509724865307
+      ismagiPngLogo_28: 7267231250247951623
+      ismagiPngLogo_29: 8196837293633964212
+      ismagiPngLogo_3: 4279286866466494703
+      ismagiPngLogo_30: -792635429946572951
+      ismagiPngLogo_31: -1114112270050671858
+      ismagiPngLogo_32: -1338784587019558554
+      ismagiPngLogo_33: 1785528535454981607
+      ismagiPngLogo_34: 5911977921641587234
+      ismagiPngLogo_35: -10559167126342532
+      ismagiPngLogo_36: -35432820643956099
+      ismagiPngLogo_37: 7087323731865771792
+      ismagiPngLogo_38: -111561215472230109
+      ismagiPngLogo_39: -2881582436794235571
+      ismagiPngLogo_4: 9198002716335397056
+      ismagiPngLogo_40: 900173981196446569
+      ismagiPngLogo_41: 9153923103584466250
+      ismagiPngLogo_42: -202633170394010159
+      ismagiPngLogo_43: 6965366967710042532
+      ismagiPngLogo_44: 8381766451252086159
+      ismagiPngLogo_45: -3205817872626050224
+      ismagiPngLogo_46: -889451793141233821
+      ismagiPngLogo_47: -712372810073784692
+      ismagiPngLogo_48: -3159470000242044724
+      ismagiPngLogo_49: -593771648023536252
+      ismagiPngLogo_5: 6890483607604992219
+      ismagiPngLogo_50: 7647602733193382739
+      ismagiPngLogo_51: 7316222251538652532
+      ismagiPngLogo_52: 8663982610313206172
+      ismagiPngLogo_53: -127838278495511875
+      ismagiPngLogo_54: -8692325738805939382
+      ismagiPngLogo_55: -4640349215229308420
+      ismagiPngLogo_56: -5661427428830658916
+      ismagiPngLogo_57: 5051129175707896768
+      ismagiPngLogo_58: 4521831783813122112
+      ismagiPngLogo_59: -2395959997573452900
+      ismagiPngLogo_6: 5325980430940530183
+      ismagiPngLogo_60: -8891089879004263633
+      ismagiPngLogo_61: 2486726736091758606
+      ismagiPngLogo_62: -5351262307408300794
+      ismagiPngLogo_63: 4114650880418211614
+      ismagiPngLogo_64: -6364670760717223974
+      ismagiPngLogo_65: 5612659081741737600
+      ismagiPngLogo_66: -1942542211725145066
+      ismagiPngLogo_67: 2939148899679950802
+      ismagiPngLogo_68: 7442417146367387914
+      ismagiPngLogo_69: -7232322159084669350
+      ismagiPngLogo_7: -5648957358137553312
+      ismagiPngLogo_70: 1787207251626839933
+      ismagiPngLogo_71: -3777518480589453866
+      ismagiPngLogo_72: -3668269292227432016
+      ismagiPngLogo_73: -5199707748644081005
+      ismagiPngLogo_74: -6834706869984113508
+      ismagiPngLogo_75: -7024680166974509218
+      ismagiPngLogo_76: 6233381669340175612
+      ismagiPngLogo_77: 5018833226509249838
+      ismagiPngLogo_78: -140147190687279413
+      ismagiPngLogo_79: -2430296466494845331
+      ismagiPngLogo_8: 2600057070096719262
+      ismagiPngLogo_80: -8614381732034100766
+      ismagiPngLogo_81: -1949241730899897639
+      ismagiPngLogo_82: 5476115959577080336
+      ismagiPngLogo_83: -963941721789379936
+      ismagiPngLogo_84: -2554404081025491561
+      ismagiPngLogo_85: -2670651517997595533
+      ismagiPngLogo_86: -3589526136111565038
+      ismagiPngLogo_87: 4296283930496213347
+      ismagiPngLogo_88: 4308506549624632283
+      ismagiPngLogo_89: -7035103016597429174
+      ismagiPngLogo_9: -5682880884920272289
+      ismagiPngLogo_90: 945362656442412750
+      ismagiPngLogo_91: 5083868761752456132
+      ismagiPngLogo_92: 2874170305329627356
+      ismagiPngLogo_93: 9205676999785881561
+      ismagiPngLogo_94: -9007329993547356986
+      ismagiPngLogo_95: 4351175599804913365
+      ismagiPngLogo_96: -7990768921013944962
+      ismagiPngLogo_97: -6353917484953075936
+      ismagiPngLogo_98: -2676891231623360267
+      ismagiPngLogo_99: 6103266474323784751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

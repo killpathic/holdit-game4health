@@ -1,0 +1,52 @@
+# secrets
+.env
+*.key
+*.pem
+secrets/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+
+# ml artifacts
+*.h5
+*.pkl
+
+# node
+node_modules/
+
+# os
+.DS_Store
+Thumbs.db
+
+# editor / IDE
+.vs/
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# unity ignores (project-root level — HealthHack/EmgProject is the unity project)
+HealthHack/EmgProject/Library/
+HealthHack/EmgProject/Temp/
+HealthHack/EmgProject/Obj/
+HealthHack/EmgProject/obj/
+HealthHack/EmgProject/Logs/
+HealthHack/EmgProject/UserSettings/
+HealthHack/EmgProject/MemoryCaptures/
+HealthHack/EmgProject/Build/
+HealthHack/EmgProject/Builds/
+HealthHack/EmgProject/Recordings/
+HealthHack/EmgProject/_Recovery/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
