@@ -1,7 +1,9 @@
 
+## 🎥 Demo
 
+---
 https://github.com/user-attachments/assets/bf343186-ccd5-4f9d-a683-a75dccbdc9ef
-
+---
 <div align="center">
 
 # 🎮 HOLD IT — GAME4HEALTH
@@ -41,14 +43,6 @@ clinician.
 
 **Target users.** Physiotherapists, rehab clinics, and post-discharge patients
 with measurable EMG output in the targeted limb.
-
----
-
-## 🎥 Demo
-
-[![Watch Demo](assets/demo.gif)](assets/demo.mp4)
-
-> Replace `assets/demo.mp4` with the production demo recording.
 
 ---
 
