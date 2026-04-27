@@ -44,14 +44,6 @@ with measurable EMG output in the targeted limb.
 
 ---
 
-## 🎥 Demo
-
-[![Watch Demo](assets/demo.gif)](assets/demo.mp4)
-
-> Replace `assets/demo.mp4` with the production demo recording.
-
----
-
 ## 🏗️ Architecture
 
 ```mermaid
